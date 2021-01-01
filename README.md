@@ -1,2 +1,2 @@
 # streetbuck_test
-Give away money
+Give away money for free
